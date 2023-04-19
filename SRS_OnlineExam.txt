@@ -1,0 +1,32 @@
+System Requirement Specifications
+
+Team: Architect,Quality Assurance,System Analyst,Admin,Student.
+
+
+Objective/Purpose:
+Our web application will provide facility to give online examination.
+It is time efficient and accepts large number of students are allowed to take examination at the same time.
+It will display the result right after submission.
+It uses the reduces the use of paper and reduces the physical documentaion.
+It randomises the question sequence to reduce the risk of cheating.
+
+Scope:
+The user of this system can be educational institute or hiring firm.
+Only registered student with unique id will be allowed the access to the paper.
+Application can be accessed from any system within center.
+It reduces the process of keeping records in hardcopy.
+It will  be efficient as result will be declared instantly.
+
+Functionality:
+1)Candidate/Student module: Student will upload the details.
+2)Invigilator module: Invigilator has the function of adding or editing the papers.
+3)Results: Result will be shown immediately after submission.
+
+Non Functional Requirement:
+1)Security: System will provide proper firewall.
+2)Timer: System will automatically log off all students automatically.
+3)Access: Each student will be able to access the system through authentication process.
+4)Server: IT operations team will monitor and configure system using administrative tools.
+5)Durability: System will implement backup and recovery for retaining student's paper data.
+6)Efficiency: It will provide result right after submission.
+7)Reliablity: System will take backup, In case of sudden system failure the exam will start from previous saved point.
